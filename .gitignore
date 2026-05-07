@@ -1,4 +1,20 @@
+# Data
+*.npy
+*.txt
+final_matrix_video/
+final_matrix_video_norm/
+ppg_sync/
+ppg_sync_final/
+
+# Env / system
 .env
-.npy
-.claude
-.txt
+.DS_Store
+.cache/
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+
+# Reviews / local notes
+REVIEW.md
