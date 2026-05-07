@@ -45,6 +45,4 @@ exist locally, open `notebook.ipynb` and run end-to-end.
 ## Note on AI use
 
 Throughout this project, **Claude (Anthropic)** was used as a *mentor* —
-to discuss design choices, clarify concepts, and review code. The
-architectural decisions, data work, and final implementation are mine;
-Claude served as a sounding board, not an author.
+to discuss design choices, clarify concepts, and review code.
